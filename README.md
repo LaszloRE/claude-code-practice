@@ -4,4 +4,4 @@ This is a small practice project used to try out the GitHub pull request workflo
 
 ## Getting Started
 
-This repo doesn't have any build steps yet — its just a starting point for learning.
+This repo doesn't have any build steps yet — it's just a starting point for learning.
